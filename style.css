@@ -1,0 +1,14 @@
+body{
+    /* background-color: aqua; */
+    background-image: url(pic.png);
+    background-size:cover;
+    margin:0 auto;
+    text-align:center;
+}
+#overlay{
+    background-color: blue;
+}
+p{
+    background-color: red;
+
+}
